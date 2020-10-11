@@ -22,7 +22,8 @@ File tree:
 │   ├── Makefile
 │   ├── mission.c
 │   ├── mission.h
-│   ├── README.md
+│   ├── README_EN.md
+│   ├── README_FR.md
 │   ├── rocket.c
 │   └── rocket.h
 └── resources
@@ -33,7 +34,8 @@ File tree:
     ├── Makefile
     ├── mission.c
     ├── mission.h
-    ├── README.md
+    ├── README_EN.md
+    ├── README_FR.md
     ├── rocket.c
     └── rocket.h
 
